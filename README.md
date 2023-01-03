@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skydreamweb
 - 👀 I’m interested in Nuxt 3 / Vue 3 / NodeJS
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently mastering NodeJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dalibor@skydream.dev
 
